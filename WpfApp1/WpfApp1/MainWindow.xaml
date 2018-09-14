@@ -35,32 +35,54 @@
         <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="532,319,0,0"/>
         <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="472,319,0,0"/>
         <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="592,319,0,0"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="123,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="483,326,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="423,326,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="363,326,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="303,326,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="243,326,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="183,326,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="634,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="574,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="513,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="453,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="394,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="332,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="274,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="214,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="154,291,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="664,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="604,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="542,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="483,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="423,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="363,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="303,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="243,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="183,255,0,0" Height="15" Width="8"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="542,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Q" VerticalAlignment="Top" Margin="123,255,0,0" Height="15" Width="11"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="N" VerticalAlignment="Top" Margin="483,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="B" VerticalAlignment="Top" Margin="424,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="V" VerticalAlignment="Top" Margin="363,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" Margin="303,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="X" VerticalAlignment="Top" Margin="244,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Z" VerticalAlignment="Top" Margin="183,326,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="L" VerticalAlignment="Top" Margin="634,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="K" VerticalAlignment="Top" Margin="574,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="J" VerticalAlignment="Top" Margin="515,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="H" VerticalAlignment="Top" Margin="453,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="G" VerticalAlignment="Top" Margin="393,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="F" VerticalAlignment="Top" Margin="334,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="D" VerticalAlignment="Top" Margin="273,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="S" VerticalAlignment="Top" Margin="214,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Margin="153,291,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="P" VerticalAlignment="Top" Margin="664,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="O" VerticalAlignment="Top" Margin="603,255,0,0" Height="15" Width="10"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="I" VerticalAlignment="Top" Margin="545,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="U" VerticalAlignment="Top" Margin="483,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Y" VerticalAlignment="Top" Margin="424,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="T" VerticalAlignment="Top" Margin="364,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="R" VerticalAlignment="Top" Margin="304,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="E" VerticalAlignment="Top" Margin="244,255,0,0" Height="15" Width="8"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="W" VerticalAlignment="Top" Margin="181,255,0,0" Height="15" Width="11"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="M" VerticalAlignment="Top" Margin="542,326,0,0" Height="15" Width="11"/>
+        
+        <ComboBox Name="comboRotorone" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="112,81,0,0">
+            <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <ComboBox Name="comboRotortwo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="322,81,0,0">
+            <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected"/>
+            <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <ComboBox Name="comboRotorthree" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="532,81,0,0">
+            <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected"/>
+            <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
 
     </Grid>
 </Window>
