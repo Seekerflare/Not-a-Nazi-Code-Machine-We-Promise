@@ -69,20 +69,29 @@
             <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
-        <ComboBox Name="comboRotortwo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="322,81,0,0">
+        <ComboBox Name="comboRotortwo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="129" Margin="322,81,0,0">
             <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected"/>
+            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" />
             <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
         <ComboBox Name="comboRotorthree" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="532,81,0,0">
             <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected"/>
+            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" />
             <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
+        <TextBox Name="startR1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="112,138,0,0"/>
+        <TextBox Name="startR3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="532,138,0,0"/>
+        <TextBox Name="startR2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" Margin="322,138,0,0"/>
+        <Label Content="Starting Letter:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,112,0,0" Width="140"/>
+        <Label Content="Starting Letter:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="321,112,0,0" Width="140"/>
+        <Label Content="Starting Letter:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="532,112,0,0" Width="140"/>
+        <Label Content="Select First Rotor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,50,0,0" Width="140"/>
+        <Label Content="Select Second Rotor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="321,50,0,0" Width="140"/>
+        <Label Content="Select Third Rotor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="532,50,0,0" Width="140"/>
 
     </Grid>
 </Window>
