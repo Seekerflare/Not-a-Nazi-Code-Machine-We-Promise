@@ -7,33 +7,35 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Rectangle Fill="CadetBlue" HorizontalAlignment="Left" Height="362" Stroke="Black" VerticalAlignment="Top" Width="715" Margin="40,29,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="652.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="592.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="532.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="472.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="412.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="352.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="292.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="232.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="172.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="112.5,249,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="562,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="502,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="382,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="142,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="202,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="442,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="622,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="322,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="262,284,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="412,319,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="352,319,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="292,319,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="232,319,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="172,319,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="532,319,0,0"/>
-        <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="472,319,0,0"/>
+        
+        <Rectangle Fill="CadetBlue" HorizontalAlignment="Left" Height="362" Stroke="Black" VerticalAlignment="Top" Width="715" Margin="40,29,0,0" />
+        <Rectangle Fill="WhiteSmoke" HorizontalAlignment="Left" Height="46" Stroke="Black" VerticalAlignment="Top" Width="157" Margin="322,190,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="P" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="652.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="O" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="592.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="I" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="532.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="U" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="472.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="Y" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="412.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="T" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="352.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="R" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="292.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="E" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="232.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="W" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="172.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="Q" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="112.5,249,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="K" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="562,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="J" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="502,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="G" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="382,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="A" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="142,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="S" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="202,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="H" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="442,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="L" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="622,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="F" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="322,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="D" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="262,284,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="B" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="412,319,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="V" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="352,319,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="C" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="292,319,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="X" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="232,319,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="Z" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="172,319,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="M" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="532,319,0,0"/>
+        <Ellipse Fill="CadetBlue" x:Name="N" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="472,319,0,0"/>
         <Ellipse Fill="CadetBlue" HorizontalAlignment="Left" Height="30" Stroke="Black" VerticalAlignment="Top" Width="30" Margin="592,319,0,0"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Q" VerticalAlignment="Top" Margin="123,255,0,0" Height="15" Width="11"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="N" VerticalAlignment="Top" Margin="483,326,0,0" Height="15" Width="8"/>
@@ -61,37 +63,44 @@
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="E" VerticalAlignment="Top" Margin="244,255,0,0" Height="15" Width="8"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="W" VerticalAlignment="Top" Margin="181,255,0,0" Height="15" Width="11"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="M" VerticalAlignment="Top" Margin="542,326,0,0" Height="15" Width="11"/>
-        
-        <ComboBox Name="comboRotorone" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="112,81,0,0">
-            <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
+
+        <ComboBox x:Name="comboRotorone" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="112,81,0,0">
+            <ComboBoxItem Content="I" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="II" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="III" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="IV" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="V" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
-        <ComboBox Name="comboRotortwo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="129" Margin="322,81,0,0">
-            <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" />
-            <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
+        <ComboBox x:Name="comboRotortwo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="129" Margin="322,81,0,0">
+            <ComboBoxItem Content="I" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="II" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="III" HorizontalAlignment="Left" Width="118" />
+            <ComboBoxItem Content="IV" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="V" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
-        <ComboBox Name="comboRotorthree" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="532,81,0,0">
-            <ComboBoxItem Content="Rotor I" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor II" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor III" HorizontalAlignment="Left" Width="118" />
-            <ComboBoxItem Content="Rotor IV" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem Content="Rotor V" HorizontalAlignment="Left" Width="118"/>
+        <ComboBox x:Name="comboRotorthree" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="532,81,0,0">
+            <ComboBoxItem Content="I" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="II" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="III" HorizontalAlignment="Left" Width="118" />
+            <ComboBoxItem Content="IV" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="V" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
-        <TextBox Name="startR1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="112,138,0,0"/>
-        <TextBox Name="startR3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="532,138,0,0"/>
-        <TextBox Name="startR2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" Margin="322,138,0,0"/>
+        <TextBox MaxLength="1" x:Name="startR1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="112,138,0,0"/>
+        <TextBox MaxLength="1" x:Name="startR2" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" Margin="322,138,0,0"/>
+        <TextBox MaxLength="1" x:Name="startR3" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="532,138,0,0"/>
         <Label Content="Starting Letter:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,112,0,0" Width="140"/>
         <Label Content="Starting Letter:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="321,112,0,0" Width="140"/>
         <Label Content="Starting Letter:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="532,112,0,0" Width="140"/>
         <Label Content="Select First Rotor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,50,0,0" Width="140"/>
         <Label Content="Select Second Rotor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="321,50,0,0" Width="140"/>
         <Label Content="Select Third Rotor:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="532,50,0,0" Width="140"/>
+        <TextBlock Name="LetterSetup" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="326,215,0,0" Width="86"/>
+        <TextBlock Name="RotorSetup" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="326,194,0,0" Width="86"/>
+        <Label Content="Rotor and Starting Selection" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="321,168,0,0"/>
+        <RadioButton Content="On" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="76,174,0,0" KeyDown="OnKeyDownHandler" />
+        <RadioButton Content="Off" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="76,203,0,0"/>
+        <Label Content="Rotor Order" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="232,190,0,0"/>
+        <Label Content="Start Order" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="232,210,0,0"/>
 
     </Grid>
 </Window>
